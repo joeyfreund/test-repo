@@ -1,6 +1,14 @@
 ---
 ---
 
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
+
 xnlogic is a powerful web framework for applications that are backed by a graph database. 
 
 ![XN Stack](https://dl.dropboxusercontent.com/s/sew1hvjfeclxhrv/XN_stack.png)
