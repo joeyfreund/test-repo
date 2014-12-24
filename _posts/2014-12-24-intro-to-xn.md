@@ -1,4 +1,6 @@
 ---
+title: Introduction To XN
+layout: post
 ---
 
 xnlogic is a powerful web framework for applications that are backed by a graph database. 
