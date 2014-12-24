@@ -1,5 +1,4 @@
 ---
-published: true
 ---
 
 xnlogic is a powerful web framework for applications that are backed by a graph database. 
